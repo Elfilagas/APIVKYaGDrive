@@ -1,0 +1,4 @@
+/venv
+/.idea
+client_secrets.json
+result.json
